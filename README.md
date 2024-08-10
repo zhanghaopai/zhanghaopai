@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Patrick!%20Welcome%20to%20my%20github%20profile%20page.&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=py,cpp,java,html,css,js,sql&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,cpp,java,html,css,js,npm,mysql,markdown,vscode,idea,pycharm&theme=light" />
 </p>
+
+# Contribution Graph
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=zhanghaopai&theme=github-compact&hide_border=true&area=true" />
+
+
+# Latest 
