@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=py,cpp,java,html,css,js,sql&theme=light" />
+</p>
