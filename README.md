@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghaopai&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://skillicons.dev/icons?i=py,cpp,java,html,css,js,sql&theme=light" />
