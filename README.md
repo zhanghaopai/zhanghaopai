@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 
 <h2 align="left ">✨ Latest Blog Posts </h2>
 
+
 <p>
     <ul>
+        <li><a href="https://zhanghaopai.github.io/2024/08/11/LLM-Quick-Start/">LoRA</a></li>
         <li><a href="https://zhanghaopai.github.io/2024/08/11/hello-world/">Hexo</a></li>
     </ul>
 </p>
