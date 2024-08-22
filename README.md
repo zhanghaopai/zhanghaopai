@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 <h2 align="left ">✨ Latest Blog Posts </h2>
 
+<a href="https://zhanghaopai.github.io/">blogs</a>
+<br/>
 
 <p>
     <ul>
