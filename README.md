@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="left">🔭 Homepage</h2>
-<p align="center">
+<p align="left">
     <a href="https://zhanghaopai.github.io/">blogs</a>
 </p>
 
