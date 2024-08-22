@@ -19,6 +19,12 @@ Here are some ideas to get you started:
         src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI👋%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Patrick!%20Welcome%20to%20my%20github%20profile%20page.&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
+<h2 align="left">🔭 Homepage</h2>
+<p align="center">
+    <a href="https://zhanghaopai.github.io/">blogs</a>
+</p>
+
+
 <h2 align="left">🔥 Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
@@ -32,9 +38,6 @@ Here are some ideas to get you started:
     src="https://github-readme-activity-graph.vercel.app/graph?username=zhanghaopai&theme=github-compact&hide_border=true&area=true" />
 
 <h2 align="left ">✨ Latest Blog Posts </h2>
-
-<a href="https://zhanghaopai.github.io/">blogs</a>
-<br/>
 
 <p>
     <ul>
